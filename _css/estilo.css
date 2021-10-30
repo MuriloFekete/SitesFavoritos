@@ -1,0 +1,76 @@
+body {
+    font-size: 13pt;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ul {list-style-type: none;}
+h1 {
+    box-shadow: 2px 2px 2px;
+    background-color: rgba(60,60,60, 0.3);
+}
+
+h2 {text-decoration: underline;}
+
+h1,h2 {
+    text-align: center;
+}
+
+ul#decimal {
+    font-weight: bold;
+    color: black;
+}
+
+img {
+    width: 450px;
+    height: 300px; 
+}
+
+#insta {
+    position: absolute;
+    top: 139px;
+    left: 750px; 
+    
+}
+#insta img{
+    width: 450px;
+    height: 300px;
+}
+li#cinco {
+    margin-top: 40px;
+}
+
+#seis {
+    position: absolute;
+    top: 828px;
+    left: 750px; 
+}
+
+#sete {
+    margin-top: 40px;
+}
+
+#oito {
+    position: absolute;
+    top: 1190px;
+    left: 750px; 
+}
+
+#nove {
+    margin-top: 40px;
+}
+
+
+#dez {
+    position: absolute;
+    top: 1550px;
+    left: 750px; 
+}
+
+#rodape {
+    font-family: 'Courier New', Courier, monospace;
+    border-top: 1px solid black;
+    text-align: center;
+}
+a{color: black;}
+a:hover {
+    color:red;
+}
